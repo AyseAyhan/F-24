@@ -6,9 +6,13 @@ Takım Flutter 24
 ###**Takım Elemanları**
 
 -Ayşe Ayhan: Scrum Master/Developer
+
 -Hanife Cennet Alkan: Product Owner/Developer
+
 -Yusuf Alçı: Developer
+
 -Okan Patır: Developer
+
 -İrem Nur Pirinççi: Developer
 
 ---
