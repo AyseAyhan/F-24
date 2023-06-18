@@ -5,15 +5,15 @@ Takım Flutter 24
 ---
 ###**Takım Elemanları**
 
-*Ayşe Ayhan: Scrum Master/Developer
+-**Ayşe Ayhan:** Scrum Master/Developer
 
-*Hanife Cennet Alkan: Product Owner/Developer
+-**Hanife Cennet Alkan:** Product Owner/Developer
 
-*Yusuf Alçı: Developer
+-**Yusuf Alçı:** Developer
 
-*Okan Patır: Developer
+-**Okan Patır:** Developer
 
-*İrem Nur Pirinççi: Developer
+-**İrem Nur Pirinççi:** Developer
 
 ---
 ###**Ürün ile İlgili Bilgiler**
@@ -39,19 +39,19 @@ Uygulamamız, modern yaşamın getirdiği taleplerle başa çıkmak için kullan
 
 ##**Ürün Özellikleri**
 
-*Hedef Belirleme ve Odaklanma: Uygulama, kullanıcılara hedeflerini belirlemek, onları alt başlıklara bölerek daha yönetilebilir hale getirmek ve bu hedeflere odaklanmak için güçlü bir platform sağlar. Bu, bireylerin hayatlarında gerçek ilerleme kaydetmelerine ve daha organize olmalarına yardımcı olur.
+-**Hedef Belirleme ve Odaklanma:** Uygulama, kullanıcılara hedeflerini belirlemek, onları alt başlıklara bölerek daha yönetilebilir hale getirmek ve bu hedeflere odaklanmak için güçlü bir platform sağlar. Bu, bireylerin hayatlarında gerçek ilerleme kaydetmelerine ve daha organize olmalarına yardımcı olur.
 
-*Motivasyon ve Ödüller: İnsanlar, hedeflerine ulaşmaya teşvik edildiklerinde daha fazla motive olurlar. Uygulamamız, hedefleri gerçekleştirdikçe kullanıcılara ödüller, rozetler veya temalar sunarak bu motivasyonu artırır. Bu, başarıların kutlanmasını ve sürece olan bağlılığı güçlendirir.
+-**Motivasyon ve Ödüller:** İnsanlar, hedeflerine ulaşmaya teşvik edildiklerinde daha fazla motive olurlar. Uygulamamız, hedefleri gerçekleştirdikçe kullanıcılara ödüller, rozetler veya temalar sunarak bu motivasyonu artırır. Bu, başarıların kutlanmasını ve sürece olan bağlılığı güçlendirir.
 
-*Topluluk ve Ortak Hedefler: İnsanlar genellikle benzer ilgi alanlarına sahip diğer kişilerle etkileşimde bulunmak ve bir topluluk içinde yer almak isterler. Uygulamamız, ortak hedefler etrafında insanları bir araya getirir ve birbirlerine destek olmalarını sağlar. Bu topluluk, motive edici bir ortam sağlar ve ilham verici deneyimler sunar.
+-**Topluluk ve Ortak Hedefler:** İnsanlar genellikle benzer ilgi alanlarına sahip diğer kişilerle etkileşimde bulunmak ve bir topluluk içinde yer almak isterler. Uygulamamız, ortak hedefler etrafında insanları bir araya getirir ve birbirlerine destek olmalarını sağlar. Bu topluluk, motive edici bir ortam sağlar ve ilham verici deneyimler sunar.
 
-*Hatırlatıcı-Alarm Fonksiyonları: Yoğun bir yaşam tarzı içinde hedeflere odaklanmak zor olabilir. Uygulamamız, hatırlatıcı ve alarm özellikleriyle kullanıcıların hedeflerine düzenli olarak dönmesini sağlar. Bu sayede önemli adımları kaçırmadan hedeflerinize odaklanabilirsiniz.
+-**Hatırlatıcı-Alarm Fonksiyonları:** Yoğun bir yaşam tarzı içinde hedeflere odaklanmak zor olabilir. Uygulamamız, hatırlatıcı ve alarm özellikleriyle kullanıcıların hedeflerine düzenli olarak dönmesini sağlar. Bu sayede önemli adımları kaçırmadan hedeflerinize odaklanabilirsiniz.
 
-*Planlayıcılar ve Ajandalar: Uygulamamız, günlük, haftalık veya aylık planlamalarınızı yapmanızı ve ajandanızı yönetmenizi sağlar. Bu özellikler, iş, eğitim veya kişisel yaşamınızdaki önemli görevleri organize etmenize yardımcı olur. Görevlerinizi takip etmek, zamanlama çakışmalarını önlemek ve verimliliği artırmak için kullanışlıdır.
+-**Planlayıcılar ve Ajandalar:** Uygulamamız, günlük, haftalık veya aylık planlamalarınızı yapmanızı ve ajandanızı yönetmenizi sağlar. Bu özellikler, iş, eğitim veya kişisel yaşamınızdaki önemli görevleri organize etmenize yardımcı olur. Görevlerinizi takip etmek, zamanlama çakışmalarını önlemek ve verimliliği artırmak için kullanışlıdır.
 
-*Kişiselleştirme ve Tema Değişimi: Uygulamamız, kişiselleştirme seçenekleri sunarak kullanıcıların kendi tercihlerine göre uygulamayı şekillendirmesine olanak tanır. Tema değişimi özelliği sayesinde, hedeflerinizi gerçekleştirdikçe otomatik olarak tema değişimi yaparak motivasyonu artırır. Bu, kullanıcıların uygulamanın hissini kendi tarzlarına ve tercihlerine göre ayarlamalarına olanak sağlar.
+-**Kişiselleştirme ve Tema Değişimi:** Uygulamamız, kişiselleştirme seçenekleri sunarak kullanıcıların kendi tercihlerine göre uygulamayı şekillendirmesine olanak tanır. Tema değişimi özelliği sayesinde, hedeflerinizi gerçekleştirdikçe otomatik olarak tema değişimi yaparak motivasyonu artırır. Bu, kullanıcıların uygulamanın hissini kendi tarzlarına ve tercihlerine göre ayarlamalarına olanak sağlar.
 
-*Yaratıcı ve Eğlenceli Fonksiyonlar: Uygulamamız, sıradan hedef takibi uygulamalarından farklı olarak yaratıcı ve eğlenceli fonksiyonlar sunar. Ödüller, rozetler, başarı sıralamaları ve belki de yarışmalar gibi öğelerle kullanıcıların deneyimini daha keyifli ve heyecan verici hale getirir. Bu da uzun vadede motivasyonu artırır ve kullanıcıların hedeflerine daha bağlı olmalarını sağlar.
+-**Yaratıcı ve Eğlenceli Fonksiyonlar:** Uygulamamız, sıradan hedef takibi uygulamalarından farklı olarak yaratıcı ve eğlenceli fonksiyonlar sunar. Ödüller, rozetler, başarı sıralamaları ve belki de yarışmalar gibi öğelerle kullanıcıların deneyimini daha keyifli ve heyecan verici hale getirir. Bu da uzun vadede motivasyonu artırır ve kullanıcıların hedeflerine daha bağlı olmalarını sağlar.
 
 
 ---
