@@ -72,7 +72,15 @@ Puan tamamlama mantığı:
 Daily Scrum:
 
 
+##**Ürün Ekran Görüntüsü:**
 
+![Ekran görüntüsü 2023-06-18 120546](https://github.com/AyseAyhan/F-24/assets/130063101/252de43b-93a7-49b5-9c33-ba3e71f3f429)
+
+![Ekran görüntüsü 2023-06-18 120640](https://github.com/AyseAyhan/F-24/assets/130063101/e0e1ebc6-db84-4fac-a437-e33b9330c48e)
+
+![Ekran görüntüsü 2023-06-18 120715](https://github.com/AyseAyhan/F-24/assets/130063101/cc7492f0-f50a-4739-bd1b-b02285b68ae7)
+
+![Ekran görüntüsü 2023-06-18 120737](https://github.com/AyseAyhan/F-24/assets/130063101/31a4291d-17b4-482c-8850-e084ed571463)
 
 ---
 
