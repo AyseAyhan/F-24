@@ -1,8 +1,10 @@
 ###**Takım İsmi**
+
 Takım Flutter 24
 
 ---
 ###**Takım Elemanları**
+
 -Ayşe Ayhan: Scrum Master/Developer
 -Hanife Cennet Alkan: Product Owner/Developer
 -Yusuf Alçı: Developer
@@ -50,6 +52,7 @@ Uygulamamız, modern yaşamın getirdiği taleplerle başa çıkmak için kullan
 
 ---
 ##**Hedef Kitle**
+
 Bu uygulama, hedef belirleme, kişisel gelişim ve motivasyon konularına ilgi duyan bireyler için idealdir. Öğrenciler, profesyoneller, girişimciler veya herhangi bir birey, hayatlarında hedeflere ulaşmak, organize olmak ve bir topluluk içinde yer almak isteyenler için bu uygulamadan faydalanabilir.
 		
 ---
