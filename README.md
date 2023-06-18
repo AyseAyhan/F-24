@@ -69,7 +69,9 @@ Bu uygulama, hedef belirleme, kişisel gelişim ve motivasyon konularına ilgi d
 
 Sprint içinde tamamlanması tahmin edilen puan: 80
 Puan tamamlama mantığı:  
-Daily Scrum:
+Daily Scrum: Topantılarımız Google meet üzerinden yapıldı, WhatsApp ise haberleşme ve planlama için kullanıldı. Detaylar, Daily Scrum dosyasında paylaşılmıştır.
+[Daily Scrum Dosyası](DailyScrum_F24.docx)
+
 
 
 ##**Ürün Ekran Görüntüsü:**
