@@ -71,11 +71,15 @@ Sprint içinde tamamlanması tahmin edilen puan: 80
 Puan tamamlama mantığı:  
 Daily Scrum:
 
+
+
+
 ---
 
 ##**Sprint Review:**
 
 Kullanıcının bazı temel sayfaları, arayüzleri oluşturulmuş ve kodlanmıştır; eksiklikler dikkate alınmıştır. 
+Aktif Kullanıcılar: Ayşe Ayhan, Hanife Cennet Alkan, Yusuf Alçı.
 
 ---
 
