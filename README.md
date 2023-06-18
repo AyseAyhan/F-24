@@ -24,6 +24,7 @@ Takım Flutter 24
 ---
 ##**Product Backlog URL**
 
+[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVM9tRAU0=/#tpicker-content)
 ---
 
 
