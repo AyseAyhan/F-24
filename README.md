@@ -73,6 +73,8 @@ Puan tamamlama mantığı:
 Daily Scrum: Topantılarımız Google meet üzerinden yapıldı, WhatsApp ise haberleşme ve planlama için kullanıldı. Detaylar, Daily Scrum dosyasında paylaşılmıştır.
 [Daily Scrum Dosyası](DailyScrum_F24.docx)
 
+##**Sprint board Ekran Görüntüsü:**
+
 ![sprint1](https://github.com/AyseAyhan/F-24/blob/main/ProjectManagement/sprint1.PNG)
 
 ##**Ürün Ekran Görüntüsü:**
