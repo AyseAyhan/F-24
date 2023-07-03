@@ -82,3 +82,48 @@ Takım üyelerinin gelecek sprintlerde fikir paylaşma konusunda ve kod üzerind
 
 ---
 
+
+
+---
+---
+
+
+
+# Sprint 2
+
+**Sprint içinde tamamlanması tahmin edilen puan:** 100
+
+**Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 440 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde İkinci sprint'in en az 100 ile başlaması gerektiğine karar verildi.
+
+**Daily Scrum:** Topantılarımız Google meet üzerinden yapıldı, WhatsApp ise haberleşme ve planlama için kullanıldı. Detaylar, Daily Scrum dosyasında paylaşılmıştır.
+[Daily Scrum Dosyası](DailyScrum_F24.docx)
+
+- **Sprint Board Ekran Görüntüsü:**
+
+![sprint1](https://github.com/AyseAyhan/F-24/blob/main/ProjectManagement/sprint1.PNG)
+
+- **Ürün Ekran Görüntüsü:**
+
+![Ekran görüntüsü 2023-06-18 120546](https://github.com/AyseAyhan/F-24/assets/130063101/252de43b-93a7-49b5-9c33-ba3e71f3f429)
+
+![Ekran görüntüsü 2023-06-18 120640](https://github.com/AyseAyhan/F-24/assets/130063101/e0e1ebc6-db84-4fac-a437-e33b9330c48e)
+
+![Ekran görüntüsü 2023-06-18 120715](https://github.com/AyseAyhan/F-24/assets/130063101/cc7492f0-f50a-4739-bd1b-b02285b68ae7)
+
+![Ekran görüntüsü 2023-06-18 120737](https://github.com/AyseAyhan/F-24/assets/130063101/31a4291d-17b4-482c-8850-e084ed571463)
+
+- **Sprint Review:**
+Kullanıcının bazı temel sayfaları, arayüzleri oluşturulmuş ve kodlanmıştır; eksiklikler dikkate alınmıştır. 
+Aktif Kullanıcılar: Ayşe Ayhan, Hanife Cennet Alkan, Yusuf Alçı, Okan Patır
+
+
+- **Sprint Retrospective:**
+
+Takım üyelerinin gelecek sprintlerde fikir paylaşma konusunda ve kod üzerinde çalışmak için daha aktif olması gerektiğine vurgu yapılmıştır.
+
+
+## Product Backlog URL
+[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVM9tRAU0=/#tpicker-content)
+
+---
+
