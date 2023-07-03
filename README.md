@@ -130,5 +130,4 @@ Takım üyelerinin gelecek sprintlerde kod üzerinde çalışmak için daha çok
 # Sprint 3
 
 - **Sprint Board Ekran Görüntüsü:**
-![sprint2](https://github.com/AyseAyhan/F-24/blob/main/ProjectManagement/sprint2.PNG)
 ![sprint3](https://github.com/AyseAyhan/F-24/blob/main/ProjectManagement/sprint3.PNG)
