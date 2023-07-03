@@ -100,7 +100,8 @@ Takım üyelerinin gelecek sprintlerde fikir paylaşma konusunda ve kod üzerind
 
 - **Sprint Board Ekran Görüntüsü:**
 
-![sprint1](https://github.com/AyseAyhan/F-24/blob/main/ProjectManagement/sprint1.PNG)
+![sprint2](ProjectManagement/1.PNG)
+
 
 - **Ürün Ekran Görüntüsü:**
 
