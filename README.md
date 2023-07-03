@@ -96,7 +96,7 @@ Takım üyelerinin gelecek sprintlerde fikir paylaşma konusunda ve kod üzerind
 **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 440 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde İkinci sprint'in en az 100 ile başlaması gerektiğine karar verildi.
 
 **Daily Scrum:** Topantılarımız Google meet üzerinden yapıldı, WhatsApp ise haberleşme ve planlama için kullanıldı. Detaylar, Daily Scrum dosyasında paylaşılmıştır.
-[Daily Scrum Dosyası](DailyScrum_F24.docx)
+[Daily Scrum Dosyası-2](F24_sprint2_dailyscrum.docx)
 
 - **Sprint Board Ekran Görüntüsü:**
 
@@ -113,13 +113,12 @@ Takım üyelerinin gelecek sprintlerde fikir paylaşma konusunda ve kod üzerind
 ![Ekran görüntüsü 2023-06-18 120737](https://github.com/AyseAyhan/F-24/assets/130063101/31a4291d-17b4-482c-8850-e084ed571463)
 
 - **Sprint Review:**
-Kullanıcının bazı temel sayfaları, arayüzleri oluşturulmuş ve kodlanmıştır; eksiklikler dikkate alınmıştır. 
-Aktif Kullanıcılar: Ayşe Ayhan, Hanife Cennet Alkan, Yusuf Alçı, Okan Patır
+Profil ekranı eklenmiş, kullanıcının bilgilerini girebileceği ve düzenleyebileceği bir arayüz sağlanmıştır. Hedef ekranı güncellenmiştir. Firebase üzerinde çalışılmaya başlanmıştır. 
 
 
 - **Sprint Retrospective:**
 
-Takım üyelerinin gelecek sprintlerde fikir paylaşma konusunda ve kod üzerinde çalışmak için daha aktif olması gerektiğine vurgu yapılmıştır.
+Takım üyelerinin gelecek sprintlerde kod üzerinde çalışmak için daha çok bir araya gelmesine ve yardımlaşmasına karar verildi.
 
 
 ## Product Backlog URL
