@@ -122,7 +122,7 @@ Takım üyelerinin gelecek sprintlerde kod üzerinde çalışmak için daha çok
 
 
 ## Product Backlog URL
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVM9tRAU0=/#tpicker-content)
+[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVM9tRAU0=/)
 
 ---
 
