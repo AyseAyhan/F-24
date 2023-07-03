@@ -93,7 +93,7 @@ Takım üyelerinin gelecek sprintlerde fikir paylaşma konusunda ve kod üzerind
 
 **Sprint içinde tamamlanması tahmin edilen puan:** 100
 
-**Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 440 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde İkinci sprint'in en az 100 ile başlaması gerektiğine karar verildi.
+**Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 440 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde İkinci sprint'in en az 100 puan ile ilerlemesi gerektiğine karar verildi.
 
 **Daily Scrum:** Topantılarımız Google meet üzerinden yapıldı, WhatsApp ise haberleşme ve planlama için kullanıldı. Detaylar, Daily Scrum dosyasında paylaşılmıştır.
 [Daily Scrum Dosyası-2](F24_sprint2_dailyscrum.docx)
@@ -116,11 +116,12 @@ Takım üyelerinin gelecek sprintlerde fikir paylaşma konusunda ve kod üzerind
 
 - **Sprint Review:**
 Profil ekranı eklenmiş, kullanıcının bilgilerini girebileceği ve düzenleyebileceği bir arayüz sağlanmıştır. Hedef ekranı güncellenmiştir. Firebase üzerinde çalışılmaya başlanmıştır. 
-
+Katılımcılar: Ayşe Ayhan, Hanife Cennet Alkan, Yusuf Alçı.
 
 - **Sprint Retrospective:**
 
 Takım üyelerinin gelecek sprintlerde kod üzerinde çalışmak için daha çok bir araya gelmesine ve yardımlaşmasına karar verildi.
+
 
 
 ## Product Backlog URL
