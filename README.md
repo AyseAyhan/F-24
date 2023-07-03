@@ -106,14 +106,13 @@ Takım üyelerinin gelecek sprintlerde fikir paylaşma konusunda ve kod üzerind
 - **Ürün Ekran Görüntüsü:**
 
 ![Ekran görüntüsü 2023-06-18 120546](lib/1.PNG)
-
 ![Ekran görüntüsü 2023-06-18 120640](lib/2.PNG)
 ![Ekran görüntüsü 2023-06-18 120715](lib/3.PNG)
 ![Ekran görüntüsü 2023-06-18 120715](lib/4.PNG)
 ![Ekran görüntüsü 2023-06-18 120715](lib/5.PNG)
 ![Ekran görüntüsü 2023-06-18 120715](lib/6.PNG)
 
-![Ekran görüntüsü 2023-06-18 120737](https://github.com/AyseAyhan/F-24/assets/130063101/31a4291d-17b4-482c-8850-e084ed571463)
+![Ekran görüntüsü 2023-06-18 120546](https://github.com/AyseAyhan/F-24/assets/130063101/252de43b-93a7-49b5-9c33-ba3e71f3f429)
 
 - **Sprint Review:**
 Profil ekranı eklenmiş, kullanıcının bilgilerini girebileceği ve düzenleyebileceği bir arayüz sağlanmıştır. Hedef ekranı güncellenmiştir. Firebase üzerinde çalışılmaya başlanmıştır. 
