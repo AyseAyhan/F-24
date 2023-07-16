@@ -140,3 +140,54 @@ Takım üyelerinin gelecek sprintlerde kod üzerinde çalışmak için daha çok
 - **Sprint Board Ekran Görüntüsü:**
 ![sprint2](https://github.com/AyseAyhan/F-24/blob/main/ProjectManagement/sprint2.PNG)
 ![sprint3](https://github.com/AyseAyhan/F-24/blob/main/ProjectManagement/sprint3.PNG)
+
+
+# Sprint 3
+
+**Sprint Notları:** User Story'ler, product backlog'ların içerisinde, mavi kutular ile belirtilmiştir. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir, 3.sprint sürecinde gerçekleştirilmiş olan user story'ler "Done" başlığı altındadır.
+
+**Sprint içinde tamamlanması tahmin edilen puan:** 100
+
+**Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 440 puanlık backlog bulunmaktadır. Üçüncü sprint'in en az 100 puan ile ilerlemesi gerektiğine karar verildi.
+
+**Backlog düzeni ve Story seçimleri:** Product Backlog'umuz tamamlanacak ilk story'lere ve görevlere göre düzenlenmiştir. Uygulamamızın her işlevi için ayrı user story'ler belirlenmiş ve yapılma durumuna göre Backlog tablosuna yerleştirilmiştir.
+
+Story'ler yapılacak görevlere bölünmüştür. Miro Board'da görünen kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+*****
+**Daily Scrum:** Topantılarımız Google meet üzerinden yapıldı, WhatsApp ise haberleşme ve planlama için kullanıldı. Detaylar, Daily Scrum dosyasında paylaşılmıştır.
+[Daily Scrum Dosyası-2](F24_sprint2_dailyscrum.docx)
+
+- **Sprint Board Ekran Görüntüsü:**
+
+![sprint2](ProjectManagement/1.PNG)
+
+
+- **Ürün Ekran Görüntüsü:**
+
+![Ekran görüntüsü 2023-06-18 120546](lib/1.PNG)
+![Ekran görüntüsü 2023-06-18 120640](lib/2.PNG)
+![Ekran görüntüsü 2023-06-18 120715](lib/3.PNG)
+![Ekran görüntüsü 2023-06-18 120715](lib/4.PNG)
+![Ekran görüntüsü 2023-06-18 120715](lib/5.PNG)
+![Ekran görüntüsü 2023-06-18 120715](lib/6.PNG)
+
+![Ekran görüntüsü 2023-06-18 120546](https://github.com/AyseAyhan/F-24/assets/130063101/252de43b-93a7-49b5-9c33-ba3e71f3f429)
+
+****
+
+- **Sprint Review:**
+Ayrı ayrı tamamlanmış kullanıcı arayüzleri; giriş ekranı, profil ve hedef ekranları, ajanda sayfası tamamlanmış ve birleştirilmiştir. Hedef ekranı daha fonksiyonel bir hale getirilmiştir. Veriler, firebase'te tutulmuştur. Tasarım, tüm detaylarıyla uyumlu bir hale getirilmiştir. Uygulamanın hedeflenen fonksiyonları çalışmaktadır.
+
+
+- **Sprint Retrospective:**
+
+  Proje sonu değerlendirmesi yapıldı; proje süresince zaman zaman iletişim aksaklıkları oldu yine de görevler tamamlandı. Ekip üyeleri vedalaştı.
+
+
+***
+## Product Backlog URL
+[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVM9tRAU0=/)
+
+---
+
