@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527871508417",
+    "project_id": "achievo1",
+    "storage_bucket": "achievo1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527871508417:android:7a8579a62d7265de5e3940",
+        "android_client_info": {
+          "package_name": "com.example.achievoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527871508417-n7kub68d0grjmmr0kdd9p6npe4mlt9c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC500ScJnwFM-s3N250z0LWO1uuVDoxVRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527871508417-n7kub68d0grjmmr0kdd9p6npe4mlt9c3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
