@@ -148,7 +148,7 @@ Takım üyelerinin gelecek sprintlerde kod üzerinde çalışmak için daha çok
 Story'ler yapılacak görevlere bölünmüştür. Miro Board'da görünen kırmızı item'lar yapılacak işleri gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 **Daily Scrum:** Topantılarımız Google meet üzerinden yapıldı, WhatsApp ise haberleşme ve planlama için kullanıldı. Detaylar, Daily Scrum dosyasında paylaşılmıştır.
-[Daily Scrum Dosyası-2](F24_sprint2_dailyscrum.docx)
+[Daily Scrum Dosyası-3](F24_sprint2_dailyscrum.docx)
 
 - **Sprint Board Ekran Görüntüsü:**
 - 
