@@ -51,7 +51,7 @@ bu uygulamadan faydalanabilir.
 **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 440 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 **Daily Scrum:** Topantılarımız Google meet üzerinden yapıldı, WhatsApp ise haberleşme ve planlama için kullanıldı. Detaylar, Daily Scrum dosyasında paylaşılmıştır.
-[Daily Scrum Dosyası](Daily Scrum_Sprint3.docx)
+[Daily Scrum Dosyası-1](DailyScrum_F24.docx)
 
 - **Sprint Board Ekran Görüntüsü:**
 
@@ -148,7 +148,7 @@ Takım üyelerinin gelecek sprintlerde kod üzerinde çalışmak için daha çok
 Story'ler yapılacak görevlere bölünmüştür. Miro Board'da görünen kırmızı item'lar yapılacak işleri gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 **Daily Scrum:** Topantılarımız Google meet üzerinden yapıldı, WhatsApp ise haberleşme ve planlama için kullanıldı. Detaylar, Daily Scrum dosyasında paylaşılmıştır.
-[Daily Scrum Dosyası-3](F24_sprint2_dailyscrum.docx)
+[Daily Scrum Dosyası-3](Daily Scrum_Sprint3.docx)
 
 - **Sprint Board Ekran Görüntüsü:**
 - 
