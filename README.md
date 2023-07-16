@@ -137,13 +137,6 @@ Takım üyelerinin gelecek sprintlerde kod üzerinde çalışmak için daha çok
 
 # Sprint 3
 
-- **Sprint Board Ekran Görüntüsü:**
-![sprint2](https://github.com/AyseAyhan/F-24/blob/main/ProjectManagement/sprint2.PNG)
-![sprint3](https://github.com/AyseAyhan/F-24/blob/main/ProjectManagement/sprint3.PNG)
-
-
-# Sprint 3
-
 **Sprint Notları:** User Story'ler, product backlog'ların içerisinde, mavi kutular ile belirtilmiştir. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir, 3.sprint sürecinde gerçekleştirilmiş olan user story'ler "Done" başlığı altındadır.
 
 **Sprint içinde tamamlanması tahmin edilen puan:** 100
@@ -154,13 +147,14 @@ Takım üyelerinin gelecek sprintlerde kod üzerinde çalışmak için daha çok
 
 Story'ler yapılacak görevlere bölünmüştür. Miro Board'da görünen kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-*****
 **Daily Scrum:** Topantılarımız Google meet üzerinden yapıldı, WhatsApp ise haberleşme ve planlama için kullanıldı. Detaylar, Daily Scrum dosyasında paylaşılmıştır.
 [Daily Scrum Dosyası-2](F24_sprint2_dailyscrum.docx)
 
 - **Sprint Board Ekran Görüntüsü:**
+- 
+![sprint3](https://github.com/AyseAyhan/F-24/blob/main/ProjectManagement/sprint 3.PNG)
 
-![sprint2](ProjectManagement/1.PNG)
+![sprint3](ProjectManagement/sprint3_miro.PNG)
 
 
 - **Ürün Ekran Görüntüsü:**
