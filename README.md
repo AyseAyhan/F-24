@@ -51,7 +51,7 @@ bu uygulamadan faydalanabilir.
 **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 440 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 **Daily Scrum:** Topantılarımız Google meet üzerinden yapıldı, WhatsApp ise haberleşme ve planlama için kullanıldı. Detaylar, Daily Scrum dosyasında paylaşılmıştır.
-[Daily Scrum Dosyası](DailyScrum_F24.docx)
+[Daily Scrum Dosyası](Daily Scrum_Sprint3.docx)
 
 - **Sprint Board Ekran Görüntüsü:**
 
