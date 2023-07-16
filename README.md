@@ -145,28 +145,23 @@ Takım üyelerinin gelecek sprintlerde kod üzerinde çalışmak için daha çok
 
 **Backlog düzeni ve Story seçimleri:** Product Backlog'umuz tamamlanacak ilk story'lere ve görevlere göre düzenlenmiştir. Uygulamamızın her işlevi için ayrı user story'ler belirlenmiş ve yapılma durumuna göre Backlog tablosuna yerleştirilmiştir.
 
-Story'ler yapılacak görevlere bölünmüştür. Miro Board'da görünen kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+Story'ler yapılacak görevlere bölünmüştür. Miro Board'da görünen kırmızı item'lar yapılacak işleri gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 **Daily Scrum:** Topantılarımız Google meet üzerinden yapıldı, WhatsApp ise haberleşme ve planlama için kullanıldı. Detaylar, Daily Scrum dosyasında paylaşılmıştır.
 [Daily Scrum Dosyası-2](F24_sprint2_dailyscrum.docx)
 
 - **Sprint Board Ekran Görüntüsü:**
 - 
-![sprint3](https://github.com/AyseAyhan/F-24/blob/main/ProjectManagement/sprint 3.PNG)
+![sprint3](https://github.com/AyseAyhan/F-24/blob/main/ProjectManagement/sprint3.PNG)
 
 ![sprint3](ProjectManagement/sprint3_miro.PNG)
 
 
 - **Ürün Ekran Görüntüsü:**
 
-![Ekran görüntüsü 2023-06-18 120546](lib/1.PNG)
-![Ekran görüntüsü 2023-06-18 120640](lib/2.PNG)
-![Ekran görüntüsü 2023-06-18 120715](lib/3.PNG)
-![Ekran görüntüsü 2023-06-18 120715](lib/4.PNG)
-![Ekran görüntüsü 2023-06-18 120715](lib/5.PNG)
-![Ekran görüntüsü 2023-06-18 120715](lib/6.PNG)
+![Ekran görüntüsü 2023-06-18 120546](lib/login1.jpg)
+![Ekran görüntüsü 2023-06-18 120640](lib/login2.jpg)
 
-![Ekran görüntüsü 2023-06-18 120546](https://github.com/AyseAyhan/F-24/assets/130063101/252de43b-93a7-49b5-9c33-ba3e71f3f429)
 
 ****
 
