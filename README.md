@@ -162,6 +162,11 @@ Story'ler yapılacak görevlere bölünmüştür. Miro Board'da görünen kırm�
 ![Ekran görüntüsü 2023-06-18 120546](lib/login1.jpg)
 ![Ekran görüntüsü 2023-06-18 120640](lib/login2.jpg)
 
+![Ekran görüntüsü 2023-06-18 120640](lib/a1.jpg)
+![Ekran görüntüsü 2023-06-18 120640](lib/a2.jpg)
+![Ekran görüntüsü 2023-06-18 120640](lib/a3.jpg)
+
+
 
 ****
 
