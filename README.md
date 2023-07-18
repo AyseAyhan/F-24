@@ -175,7 +175,7 @@ Ayrı ayrı tamamlanmış kullanıcı arayüzleri; giriş ekranı, profil ve hed
 
 - **Sprint Retrospective:**
 
-  Proje sonu değerlendirmesi yapıldı; proje süresince zaman zaman iletişim aksaklıkları oldu yine de görevler tamamlandı. Ekip üyeleri vedalaştı.
+  Proje sonu değerlendirmesi yapıldı; proje süresince zaman zaman iletişim aksaklıkları oldu yine de çoğu görev tamamlandı. Bazı ekip üyeleri geri bildirim vermeyi aksattı ve bazı görevler tamamlanamadı. Ekip üyeleri vedalaştı.
 
 
 ***
